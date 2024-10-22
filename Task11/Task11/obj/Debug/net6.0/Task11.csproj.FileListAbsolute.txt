@@ -1,0 +1,15 @@
+E:\projects\Task11\Task11\bin\Debug\net6.0\Task11.exe
+E:\projects\Task11\Task11\bin\Debug\net6.0\Task11.deps.json
+E:\projects\Task11\Task11\bin\Debug\net6.0\Task11.runtimeconfig.json
+E:\projects\Task11\Task11\bin\Debug\net6.0\Task11.dll
+E:\projects\Task11\Task11\bin\Debug\net6.0\Task11.pdb
+E:\projects\Task11\Task11\obj\Debug\net6.0\Task11.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Task11\Task11\obj\Debug\net6.0\Task11.AssemblyInfoInputs.cache
+E:\projects\Task11\Task11\obj\Debug\net6.0\Task11.AssemblyInfo.cs
+E:\projects\Task11\Task11\obj\Debug\net6.0\Task11.csproj.CoreCompileInputs.cache
+E:\projects\Task11\Task11\obj\Debug\net6.0\Task11.sourcelink.json
+E:\projects\Task11\Task11\obj\Debug\net6.0\Task11.dll
+E:\projects\Task11\Task11\obj\Debug\net6.0\refint\Task11.dll
+E:\projects\Task11\Task11\obj\Debug\net6.0\Task11.pdb
+E:\projects\Task11\Task11\obj\Debug\net6.0\Task11.genruntimeconfig.cache
+E:\projects\Task11\Task11\obj\Debug\net6.0\ref\Task11.dll
