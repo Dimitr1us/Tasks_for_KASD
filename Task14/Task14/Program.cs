@@ -1,0 +1,11 @@
+﻿using MyArrayDequeLib;
+MyArrayDeque<int> deque = new MyArrayDeque<int>();
+deque.Add(1);
+deque.Add(2);
+deque.Add(3);
+deque.Add(4);
+deque.Add(5);
+deque.Output();
+deque.AddFirst(10);
+deque.Remove(3);
+deque.Output();
