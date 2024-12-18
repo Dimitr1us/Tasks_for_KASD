@@ -1,4 +1,0 @@
-<example>
-<aaa>
-</bbb>
-<AAA>

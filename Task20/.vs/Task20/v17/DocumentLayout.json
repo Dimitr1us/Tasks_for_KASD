@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\Task20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9FA03-74B4-4C44-8488-ED7B8BB36066}|Task20\\Task20.csproj|e:\\projects\\task20\\task20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9FA03-74B4-4C44-8488-ED7B8BB36066}|Task20\\Task20.csproj|solutionrelative:task20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9FA03-74B4-4C44-8488-ED7B8BB36066}|Task20\\Task20.csproj|e:\\projects\\task20\\task20\\myhashmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9FA03-74B4-4C44-8488-ED7B8BB36066}|Task20\\Task20.csproj|solutionrelative:task20\\myhashmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyHashMap.cs",
+              "DocumentMoniker": "E:\\projects\\Task20\\Task20\\MyHashMap.cs",
+              "RelativeDocumentMoniker": "Task20\\MyHashMap.cs",
+              "ToolTip": "E:\\projects\\Task20\\Task20\\MyHashMap.cs",
+              "RelativeToolTip": "Task20\\MyHashMap.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAlwGgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:18:04.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\projects\\Task20\\Task20\\Program.cs",
+              "RelativeDocumentMoniker": "Task20\\Program.cs",
+              "ToolTip": "E:\\projects\\Task20\\Task20\\Program.cs",
+              "RelativeToolTip": "Task20\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwDEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:17:22.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
