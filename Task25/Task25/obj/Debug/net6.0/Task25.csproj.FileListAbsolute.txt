@@ -1,0 +1,15 @@
+E:\projects\Task25\Task25\bin\Debug\net6.0\Task25.exe
+E:\projects\Task25\Task25\bin\Debug\net6.0\Task25.deps.json
+E:\projects\Task25\Task25\bin\Debug\net6.0\Task25.runtimeconfig.json
+E:\projects\Task25\Task25\bin\Debug\net6.0\Task25.dll
+E:\projects\Task25\Task25\bin\Debug\net6.0\Task25.pdb
+E:\projects\Task25\Task25\obj\Debug\net6.0\Task25.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Task25\Task25\obj\Debug\net6.0\Task25.AssemblyInfoInputs.cache
+E:\projects\Task25\Task25\obj\Debug\net6.0\Task25.AssemblyInfo.cs
+E:\projects\Task25\Task25\obj\Debug\net6.0\Task25.csproj.CoreCompileInputs.cache
+E:\projects\Task25\Task25\obj\Debug\net6.0\Task25.sourcelink.json
+E:\projects\Task25\Task25\obj\Debug\net6.0\Task25.dll
+E:\projects\Task25\Task25\obj\Debug\net6.0\refint\Task25.dll
+E:\projects\Task25\Task25\obj\Debug\net6.0\Task25.pdb
+E:\projects\Task25\Task25\obj\Debug\net6.0\Task25.genruntimeconfig.cache
+E:\projects\Task25\Task25\obj\Debug\net6.0\ref\Task25.dll
