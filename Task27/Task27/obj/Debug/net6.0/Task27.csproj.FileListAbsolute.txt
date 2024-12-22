@@ -1,0 +1,15 @@
+E:\projects\Task27\Task27\bin\Debug\net6.0\Task27.exe
+E:\projects\Task27\Task27\bin\Debug\net6.0\Task27.deps.json
+E:\projects\Task27\Task27\bin\Debug\net6.0\Task27.runtimeconfig.json
+E:\projects\Task27\Task27\bin\Debug\net6.0\Task27.dll
+E:\projects\Task27\Task27\bin\Debug\net6.0\Task27.pdb
+E:\projects\Task27\Task27\obj\Debug\net6.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Task27\Task27\obj\Debug\net6.0\Task27.AssemblyInfoInputs.cache
+E:\projects\Task27\Task27\obj\Debug\net6.0\Task27.AssemblyInfo.cs
+E:\projects\Task27\Task27\obj\Debug\net6.0\Task27.csproj.CoreCompileInputs.cache
+E:\projects\Task27\Task27\obj\Debug\net6.0\Task27.sourcelink.json
+E:\projects\Task27\Task27\obj\Debug\net6.0\Task27.dll
+E:\projects\Task27\Task27\obj\Debug\net6.0\refint\Task27.dll
+E:\projects\Task27\Task27\obj\Debug\net6.0\Task27.pdb
+E:\projects\Task27\Task27\obj\Debug\net6.0\Task27.genruntimeconfig.cache
+E:\projects\Task27\Task27\obj\Debug\net6.0\ref\Task27.dll

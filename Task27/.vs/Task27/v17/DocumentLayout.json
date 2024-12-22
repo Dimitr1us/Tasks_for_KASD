@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\Task27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{034FE7EC-5C21-419D-81D4-4A9429CF0232}|Task27\\Task27.csproj|e:\\projects\\task27\\task27\\myhashsetlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034FE7EC-5C21-419D-81D4-4A9429CF0232}|Task27\\Task27.csproj|solutionrelative:task27\\myhashsetlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034FE7EC-5C21-419D-81D4-4A9429CF0232}|Task27\\Task27.csproj|e:\\projects\\task27\\task27\\myarraylistlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034FE7EC-5C21-419D-81D4-4A9429CF0232}|Task27\\Task27.csproj|solutionrelative:task27\\myarraylistlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034FE7EC-5C21-419D-81D4-4A9429CF0232}|Task27\\Task27.csproj|e:\\projects\\task27\\task27\\mypriorityqueuelib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034FE7EC-5C21-419D-81D4-4A9429CF0232}|Task27\\Task27.csproj|solutionrelative:task27\\mypriorityqueuelib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034FE7EC-5C21-419D-81D4-4A9429CF0232}|Task27\\Task27.csproj|e:\\projects\\task27\\task27\\myarraydequelib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034FE7EC-5C21-419D-81D4-4A9429CF0232}|Task27\\Task27.csproj|solutionrelative:task27\\myarraydequelib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034FE7EC-5C21-419D-81D4-4A9429CF0232}|Task27\\Task27.csproj|e:\\projects\\task27\\task27\\myiteratorlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034FE7EC-5C21-419D-81D4-4A9429CF0232}|Task27\\Task27.csproj|solutionrelative:task27\\myiteratorlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034FE7EC-5C21-419D-81D4-4A9429CF0232}|Task27\\Task27.csproj|e:\\projects\\task27\\task27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034FE7EC-5C21-419D-81D4-4A9429CF0232}|Task27\\Task27.csproj|solutionrelative:task27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyHashSetLib.cs",
+              "DocumentMoniker": "E:\\projects\\Task27\\Task27\\MyHashSetLib.cs",
+              "RelativeDocumentMoniker": "Task27\\MyHashSetLib.cs",
+              "ToolTip": "E:\\projects\\Task27\\Task27\\MyHashSetLib.cs",
+              "RelativeToolTip": "Task27\\MyHashSetLib.cs",
+              "ViewState": "AgIAADABAAAAAAAAAAAUwFgBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:36:31.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyArrayDequeLib.cs",
+              "DocumentMoniker": "E:\\projects\\Task27\\Task27\\MyArrayDequeLib.cs",
+              "RelativeDocumentMoniker": "Task27\\MyArrayDequeLib.cs",
+              "ToolTip": "E:\\projects\\Task27\\Task27\\MyArrayDequeLib.cs",
+              "RelativeToolTip": "Task27\\MyArrayDequeLib.cs",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAYwKgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:26:54.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyPriorityQueueLib.cs",
+              "DocumentMoniker": "E:\\projects\\Task27\\Task27\\MyPriorityQueueLib.cs",
+              "RelativeDocumentMoniker": "Task27\\MyPriorityQueueLib.cs",
+              "ToolTip": "E:\\projects\\Task27\\Task27\\MyPriorityQueueLib.cs",
+              "RelativeToolTip": "Task27\\MyPriorityQueueLib.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAQwC4BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:56:50.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyArrayListLibrary.cs",
+              "DocumentMoniker": "E:\\projects\\Task27\\Task27\\MyArrayListLibrary.cs",
+              "RelativeDocumentMoniker": "Task27\\MyArrayListLibrary.cs",
+              "ToolTip": "E:\\projects\\Task27\\Task27\\MyArrayListLibrary.cs",
+              "RelativeToolTip": "Task27\\MyArrayListLibrary.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAiwC8BAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:49:14.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyIteratorLib.cs",
+              "DocumentMoniker": "E:\\projects\\Task27\\Task27\\MyIteratorLib.cs",
+              "RelativeDocumentMoniker": "Task27\\MyIteratorLib.cs",
+              "ToolTip": "E:\\projects\\Task27\\Task27\\MyIteratorLib.cs",
+              "RelativeToolTip": "Task27\\MyIteratorLib.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:44:04.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\projects\\Task27\\Task27\\Program.cs",
+              "RelativeDocumentMoniker": "Task27\\Program.cs",
+              "ToolTip": "E:\\projects\\Task27\\Task27\\Program.cs",
+              "RelativeToolTip": "Task27\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:43:43.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
