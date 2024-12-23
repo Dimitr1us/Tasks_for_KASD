@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\Task30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F9803F-C26E-49D9-AA51-1CD887DBDAEF}|Task30\\Task30.csproj|e:\\projects\\task30\\task30\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F9803F-C26E-49D9-AA51-1CD887DBDAEF}|Task30\\Task30.csproj|solutionrelative:task30\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F9803F-C26E-49D9-AA51-1CD887DBDAEF}|Task30\\Task30.csproj|E:\\projects\\Task30\\task30\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4F9803F-C26E-49D9-AA51-1CD887DBDAEF}|Task30\\Task30.csproj|solutionrelative:task30\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F9803F-C26E-49D9-AA51-1CD887DBDAEF}|Task30\\Task30.csproj|E:\\projects\\Task30\\task30\\arrayword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F9803F-C26E-49D9-AA51-1CD887DBDAEF}|Task30\\Task30.csproj|solutionrelative:task30\\arrayword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F9803F-C26E-49D9-AA51-1CD887DBDAEF}|Task30\\Task30.csproj|E:\\projects\\Task30\\task30\\wordarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F9803F-C26E-49D9-AA51-1CD887DBDAEF}|Task30\\Task30.csproj|solutionrelative:task30\\wordarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F9803F-C26E-49D9-AA51-1CD887DBDAEF}|Task30\\Task30.csproj|E:\\projects\\Task30\\task30\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F9803F-C26E-49D9-AA51-1CD887DBDAEF}|Task30\\Task30.csproj|solutionrelative:task30\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F9803F-C26E-49D9-AA51-1CD887DBDAEF}|Task30\\Task30.csproj|E:\\projects\\Task30\\task30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F9803F-C26E-49D9-AA51-1CD887DBDAEF}|Task30\\Task30.csproj|solutionrelative:task30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F9803F-C26E-49D9-AA51-1CD887DBDAEF}|Task30\\Task30.csproj|E:\\projects\\Task30\\task30\\orientation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F9803F-C26E-49D9-AA51-1CD887DBDAEF}|Task30\\Task30.csproj|solutionrelative:task30\\orientation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F9803F-C26E-49D9-AA51-1CD887DBDAEF}|Task30\\Task30.csproj|E:\\projects\\Task30\\task30\\charcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F9803F-C26E-49D9-AA51-1CD887DBDAEF}|Task30\\Task30.csproj|solutionrelative:task30\\charcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\projects\\Task30\\Task30\\Form1.cs",
+              "RelativeDocumentMoniker": "Task30\\Form1.cs",
+              "ToolTip": "E:\\projects\\Task30\\Task30\\Form1.cs",
+              "RelativeToolTip": "Task30\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:08:56.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordArea.cs",
+              "DocumentMoniker": "E:\\projects\\Task30\\Task30\\WordArea.cs",
+              "RelativeDocumentMoniker": "Task30\\WordArea.cs",
+              "ToolTip": "E:\\projects\\Task30\\Task30\\WordArea.cs",
+              "RelativeToolTip": "Task30\\WordArea.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAcwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:08:41.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Word.cs",
+              "DocumentMoniker": "E:\\projects\\Task30\\Task30\\Word.cs",
+              "RelativeDocumentMoniker": "Task30\\Word.cs",
+              "ToolTip": "E:\\projects\\Task30\\Task30\\Word.cs",
+              "RelativeToolTip": "Task30\\Word.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwDQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:08:41.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\projects\\Task30\\Task30\\Program.cs",
+              "RelativeDocumentMoniker": "Task30\\Program.cs",
+              "ToolTip": "E:\\projects\\Task30\\Task30\\Program.cs",
+              "RelativeToolTip": "Task30\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:08:40.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Orientation.cs",
+              "DocumentMoniker": "E:\\projects\\Task30\\Task30\\Orientation.cs",
+              "RelativeDocumentMoniker": "Task30\\Orientation.cs",
+              "ToolTip": "E:\\projects\\Task30\\Task30\\Orientation.cs",
+              "RelativeToolTip": "Task30\\Orientation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:08:39.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CharCell.cs",
+              "DocumentMoniker": "E:\\projects\\Task30\\Task30\\CharCell.cs",
+              "RelativeDocumentMoniker": "Task30\\CharCell.cs",
+              "ToolTip": "E:\\projects\\Task30\\Task30\\CharCell.cs",
+              "RelativeToolTip": "Task30\\CharCell.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:08:38.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayWord.cs",
+              "DocumentMoniker": "E:\\projects\\Task30\\Task30\\ArrayWord.cs",
+              "RelativeDocumentMoniker": "Task30\\ArrayWord.cs",
+              "ToolTip": "E:\\projects\\Task30\\Task30\\ArrayWord.cs",
+              "RelativeToolTip": "Task30\\ArrayWord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:08:36.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\projects\\Task30\\Task30\\Form1.cs",
+              "RelativeDocumentMoniker": "Task30\\Form1.cs",
+              "ToolTip": "E:\\projects\\Task30\\Task30\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task30\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:07:47.226Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

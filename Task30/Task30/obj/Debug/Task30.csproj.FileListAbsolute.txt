@@ -1,0 +1,10 @@
+E:\projects\Task30\Task30\bin\Debug\Task30.exe.config
+E:\projects\Task30\Task30\bin\Debug\Task30.exe
+E:\projects\Task30\Task30\bin\Debug\Task30.pdb
+E:\projects\Task30\Task30\obj\Debug\Task30.csproj.AssemblyReference.cache
+E:\projects\Task30\Task30\obj\Debug\Task30.Form1.resources
+E:\projects\Task30\Task30\obj\Debug\Task30.Properties.Resources.resources
+E:\projects\Task30\Task30\obj\Debug\Task30.csproj.GenerateResource.cache
+E:\projects\Task30\Task30\obj\Debug\Task30.csproj.CoreCompileInputs.cache
+E:\projects\Task30\Task30\obj\Debug\Task30.exe
+E:\projects\Task30\Task30\obj\Debug\Task30.pdb
