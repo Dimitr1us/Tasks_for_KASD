@@ -1,0 +1,10 @@
+E:\projects\Task29_2\BronKerbosch\BronKerbosch\bin\Debug\BronKerbosch.exe.config
+E:\projects\Task29_2\BronKerbosch\BronKerbosch\bin\Debug\BronKerbosch.exe
+E:\projects\Task29_2\BronKerbosch\BronKerbosch\bin\Debug\BronKerbosch.pdb
+E:\projects\Task29_2\BronKerbosch\BronKerbosch\obj\Debug\BronKerbosch.csproj.AssemblyReference.cache
+E:\projects\Task29_2\BronKerbosch\BronKerbosch\obj\Debug\BronKerbosch.Form1.resources
+E:\projects\Task29_2\BronKerbosch\BronKerbosch\obj\Debug\BronKerbosch.Properties.Resources.resources
+E:\projects\Task29_2\BronKerbosch\BronKerbosch\obj\Debug\BronKerbosch.csproj.GenerateResource.cache
+E:\projects\Task29_2\BronKerbosch\BronKerbosch\obj\Debug\BronKerbosch.csproj.CoreCompileInputs.cache
+E:\projects\Task29_2\BronKerbosch\BronKerbosch\obj\Debug\BronKerbosch.exe
+E:\projects\Task29_2\BronKerbosch\BronKerbosch\obj\Debug\BronKerbosch.pdb

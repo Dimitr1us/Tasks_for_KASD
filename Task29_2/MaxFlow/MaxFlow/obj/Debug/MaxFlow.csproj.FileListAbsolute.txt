@@ -1,0 +1,10 @@
+E:\projects\Task29_2\MaxFlow\MaxFlow\bin\Debug\MaxFlow.exe.config
+E:\projects\Task29_2\MaxFlow\MaxFlow\bin\Debug\MaxFlow.exe
+E:\projects\Task29_2\MaxFlow\MaxFlow\bin\Debug\MaxFlow.pdb
+E:\projects\Task29_2\MaxFlow\MaxFlow\obj\Debug\MaxFlow.csproj.AssemblyReference.cache
+E:\projects\Task29_2\MaxFlow\MaxFlow\obj\Debug\MaxFlow.Form1.resources
+E:\projects\Task29_2\MaxFlow\MaxFlow\obj\Debug\MaxFlow.Properties.Resources.resources
+E:\projects\Task29_2\MaxFlow\MaxFlow\obj\Debug\MaxFlow.csproj.GenerateResource.cache
+E:\projects\Task29_2\MaxFlow\MaxFlow\obj\Debug\MaxFlow.csproj.CoreCompileInputs.cache
+E:\projects\Task29_2\MaxFlow\MaxFlow\obj\Debug\MaxFlow.exe
+E:\projects\Task29_2\MaxFlow\MaxFlow\obj\Debug\MaxFlow.pdb
